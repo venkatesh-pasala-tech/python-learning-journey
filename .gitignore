@@ -1,0 +1,38 @@
+# PyCharm
+.idea/
+*.iml
+.idea_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Virtual Environment
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Course Downloads (if any)
+*.zip
+*.rar
+*.7z
+
+# Personal Notes (if you want to keep private)
+# personal-notes/
+# **/scratch.*
+```
