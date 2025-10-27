@@ -11,14 +11,15 @@ Transition from manual testing (Informatica PowerCenter) to test automation, lea
 - **Expertise:** Informatica PowerCenter, ETL Testing, HL7/Healthcare data
 - **Current Focus:** Testing mappings with XML, JSON, HL7 files
 - **Target Role:** QA Automation Engineer / SDET
-- **Timeline:** 6 months (Started October 2024)
+- **Timeline:** 6 months (Started October 2025)
 - **Location:** Royersford, PA, USA
 
 ## 📚 Learning Path
 
 ### Month 1: Python Foundation ⏳ IN PROGRESS
+- - [ ] Week 1: Python basics (data types, operators, control flow)
 - ✅ Day 1: Variables, input(), print() - COMPLETED
-- [ ] Week 1: Python basics (data types, operators, control flow)
+- ✅ Day 2: Data types, strings, math - COMPLETED
 - [ ] Week 2: Functions and modules
 - [ ] Week 3: File handling and OOP basics
 - [ ] Week 4: Advanced Python concepts
@@ -48,13 +49,20 @@ Transition from manual testing (Informatica PowerCenter) to test automation, lea
 **Programs Written:** 4  
 **Concepts Mastered:** Variables, input(), print()
 
+**Current Streak:** 2 day 🔥  
+**Total Hours:** 1.5 hours  
+**Programs Written:** 4  
+**Concepts Mastered:** Data types, strings, math
+
 ## 📁 Repository Structure
 ```
 python-learning-journey/
 ├── day-01/          # ✅ Python basics
 │   ├── practice.py  # Practice programs
 │   └── notes.md     # Learning notes
-├── day-02/          # ⏳ Coming soon...
+├── day-02/          # ✅ Python basics
+│   ├── practice.py  # Practice programs
+│   └── notes.md     # Learning notes
 └── README.md        # This file
 ```
 
