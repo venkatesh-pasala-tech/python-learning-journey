@@ -68,8 +68,8 @@ python-learning-journey/
 
 | Day | Date | Hours | Topics | Programs | Status |
 |-----|------|-------|--------|----------|--------|
-| 1 | Oct 24, 2024 | 2.5 | Variables, input(), print() | 4 | ✅ |
-| 2 | Oct 25, 2024 | - | TBD | - | ⏳ |
+| 1 | Oct 24, 2024 | 2.5   | Variables, input(), print() | 4 | ✅ |
+| 2 | Oct 25, 2024 | 1.5   | Data types, strings, math | BMI & Tip calculators | ✅ |
 
 ## 🎯 Why I'm Doing This
 
